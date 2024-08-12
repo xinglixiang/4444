@@ -1,4 +1,4 @@
-# https://мкд.мкд
+# https://kedou.org
 我的个人主页
 
 此作品改造自https://seir.in，如果喜欢，可以联系这位博主fork到你的仓库里~
